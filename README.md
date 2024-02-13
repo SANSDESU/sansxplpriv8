@@ -9,8 +9,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/SANSDESU/sansxplpriv8/master/src/screenshot.png)
 
-## User: not
-## Pass: me
+## User: not <br> Pass: me
 
 This Webshell is designed solely for penetration testing and educational use. Any illegal activities are strictly prohibited, and the developers cannot be held responsible for any misuse or damage resulting from its use.<br>
 
