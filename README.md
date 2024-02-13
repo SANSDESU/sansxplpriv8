@@ -13,7 +13,7 @@
 
 This Webshell is designed solely for penetration testing and educational use. Any illegal activities are strictly prohibited, and the developers cannot be held responsible for any misuse or damage resulting from its use.<br>
 
-This product boasts numerous features and will receive regular updates to enable users to circumvent web application firewalls (WAFs) like Immunify360 and Forbidden Upload on LiteSpeed servers.
+This Shell comes with numerous features and will receive updates to enable bypassing WAF like Immunify360 and Forbidden Upload on LiteSpeed servers.
 
 ## Some Shells That I Use To Make This:
 - Ophellia Shell by [[elliottophellia](https://github.com/elliottophellia/ophellia)]
