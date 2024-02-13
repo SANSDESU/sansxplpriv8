@@ -17,6 +17,6 @@ This Shell comes with numerous features and will receive updates to enable bypas
 
 ## Some Shells That I Use To Make This:
 - Ophellia Shell by [[elliottophellia](https://github.com/elliottophellia/ophellia)]
-- Alfa Shell by [Solevisible/Alfa-Team]
-- WSO Shell by [WSO]
+- Alfa Shell by [[Solevisible/Alfa-Team](https://telegram.me/solevisible)]
+- WSO Shell by [[WSO](https://www.wsoshell.org/)]
 - Priv8 Shell
